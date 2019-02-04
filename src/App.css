@@ -1,0 +1,23 @@
+.container {
+  display: flex;
+  text-align: center;
+  margin-left: 1.7vw;
+  /*flex-basis: 25%;*/
+  flex-wrap: wrap;
+}
+
+.list-container {
+  flex-basis: 15%;
+  border: dashed;
+  /*flex-wrap: wrap;*/
+}
+
+.image {
+  max-width: 100px;
+}
+
+.button {
+  background: #0000ff;
+  color: #fff;
+  border-radius: 25%;
+}
